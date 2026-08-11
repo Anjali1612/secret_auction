@@ -29,37 +29,18 @@ The main goal of this project was to practice Python fundamentals such as dictio
 - Conditional Statements
 - User Input
 
-## ▶️ How to Run
-
-Make sure Python is installed on your computer.
-
-Clone this repository:
-
-```bash
-git clone https://github.com/YOUR-USERNAME/Secret-auction_program.git
-
-Navigate to the project directory:
-
-```bash
-cd Secret-auction_program
-
-Run the program:
-
-```bash
-python main.py
-
-📚 What I Learned
+## 📚 What I Learned
 
 Through this project, I practiced:
 
-Working with Python dictionaries
-Storing and retrieving key-value pairs
-Using loops for repeated user interaction
-Creating and using functions
-Comparing values to find the highest bid
-Structuring a small command-line application
+1.Working with Python dictionaries
+2.Storing and retrieving key-value pairs
+3.Using loops for repeated user interaction
+4.Creating and using functions
+5.Comparing values to find the highest bid
+6.Structuring a small command-line application
 
-🎓 Learning Source
+## 🎓 Learning Source
 
 This project was developed as part of my 100 Days of Python learning journey.
 
